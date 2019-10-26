@@ -1,0 +1,62 @@
+
+body {
+  background-color: #f2f2f2;
+  background-color:  background-color: #9c0ce5;
+}
+
+.tarjeta {
+  width: 30%;
+  max-width: 340px;
+  height: auto;
+  background-color: #fff;
+  box-shadow: 0 0 5px #999;
+  margin: 100px auto;
+  position: relative;
+  overflow: hidden;
+}
+
+
+
+.texto-tarjeta {
+  width: 90%;
+  height: 50px;
+  margin: 30px auto;
+  font-family: helvetica;
+  font-size: 43px;
+  color: orange;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.naranja {
+  color: rgb(236, 158, 13);
+}
+
+.gris {
+  color: rgb(121, 115, 115);
+}
+
+.img-tarjeta {
+  max-width: 100%;
+}
+
+.encabezado-tarjeta {
+  font-family: verdana;
+  font-size: 1em;
+  text-align: center;
+}
+
+.pequeño {
+  font-size: 13px;
+}
+
+.grande{
+  font-size: 43px;
+}
+
+
+
+
+
+
